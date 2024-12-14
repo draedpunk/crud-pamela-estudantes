@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Bach",
+        "curso": "Musica Barroca",
+        "periodo": 8,
+        "turno": "Vespertino"
+    },
+    {
+        "nome": "Pamela",
+        "curso": "ADS",
+        "periodo": 1,
+        "turno": "Noturno"
+    },
+    {
+        "nome": "Mozart",
+        "curso": "Classica",
+        "periodo": 7,
+        "turno": "Matutino"
+    },
+    {
+        "nome": "James",
+        "curso": "Silent Hill",
+        "periodo": 2,
+        "turno": "Vespertino"
+    }
+]
